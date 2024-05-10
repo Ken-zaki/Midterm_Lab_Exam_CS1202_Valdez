@@ -1,3 +1,6 @@
+#Valdez, John Kenneth C.
+#CS1202
+
 game_library = {
     "Donkey Kong": {"quantity": 3, "rental_cost": 2},
     "Super Mario Bros": {"quantity": 5, "rental_cost": 3},
